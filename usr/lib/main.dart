@@ -32,7 +32,7 @@ class _IchigoIshidaHomePageState extends State<IchigoIshidaHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Ichigo & Ishida: Hard Times'),
+        title: const Text('Ichigo & Ishida: Hard Times & Growing Feelings'),
         backgroundColor: Theme.of(context).colorScheme.primary,
       ),
       body: SingleChildScrollView(
@@ -46,7 +46,7 @@ class _IchigoIshidaHomePageState extends State<IchigoIshidaHomePage> {
             ),
             const SizedBox(height: 16),
             const Text(
-              'In a twist of fate, Ichigo Kurosaki and Ishida Uryu are transported to our modern world. Stripped of their spiritual powers, they must navigate a life without zanpakuto, Quincy bows, or Hollow threats. Their bond from past battles persists, but adapting proves incredibly difficult.',
+              'In a twist of fate, Ichigo Kurosaki and Ishida Uryu are transported to our modern world. Stripped of their spiritual powers, they must navigate a life without zanpakuto, Quincy bows, or Hollow threats. Their bond from past battles persists, but adapting proves incredibly difficult. As time passes, their shared struggles slowly blossom into deeper feelings for each other.',
               style: TextStyle(fontSize: 16),
             ),
             const SizedBox(height: 16),
@@ -100,11 +100,20 @@ class _IchigoIshidaHomePageState extends State<IchigoIshidaHomePage> {
             ),
             const SizedBox(height: 16),
             const Text(
+              'Developing Feelings: A Slow-Burning Romance',
+              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 8),
+            const Text(
+              'As months turn into years, the constant companionship and mutual support begin to stir something more than friendship. Ichigo finds himself appreciating Ishida\'s calm demeanor during his outbursts, while Ishida admires Ichigo\'s unwavering strength in the face of adversity. Small moments—a shared late-night conversation after a nightmare, helping each other with homework, or standing up for one another against bullies—gradually build emotional intimacy. At first, they dismiss these feelings as gratitude or brotherly affection, but the lingering glances, the comfort found in each other\'s presence, and the jealousy that surfaces when others show interest reveal the truth. Their journey from rivals to allies to lovers is slow and uncertain, marked by internal conflicts about their identities and the fear of losing their bond, but ultimately strengthened by their shared past and present hardships.',
+            ),
+            const SizedBox(height: 16),
+            const Text(
               'Daily Life and Future Outlook',
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const Text(
-              'They attend the same high school, work odd jobs, and try to blend in. Ichigo takes up karate classes, while Ishida pursues fashion design. But the pull of their extraordinary past lingers—will they find new purpose, or will their hard times lead to something more?',
+              'They attend the same high school, work odd jobs, and try to blend in. Ichigo takes up karate classes, while Ishida pursues fashion design. But the pull of their extraordinary past lingers—and now, so does the blossoming romance. Will they embrace their feelings, or will the weight of their hard times keep them apart?',
             ),
           ],
         ),
