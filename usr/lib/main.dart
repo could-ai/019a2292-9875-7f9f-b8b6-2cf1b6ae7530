@@ -64,10 +64,10 @@ class _IchigoIshidaHomePageState extends State<IchigoIshidaHomePage> {
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const Text(
-              '• Loss of Power: No Hollow transformations or Bankai; he feels weak and purposeless.
+              '''• Loss of Power: No Hollow transformations or Bankai; he feels weak and purposeless.
 • Daily Struggles: Balancing school, part-time jobs, and hiding his past from friends.
 • Emotional Turmoil: Flashbacks to lost family and friends haunt him, leading to outbursts.
-• Adaptation Challenges: His martial arts help in fights, but modern life lacks the adrenaline.',
+• Adaptation Challenges: His martial arts help in fights, but modern life lacks the adrenaline.''',
             ),
             const SizedBox(height: 16),
             const Text(
@@ -84,10 +84,10 @@ class _IchigoIshidaHomePageState extends State<IchigoIshidaHomePage> {
               style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
             ),
             const Text(
-              '• Isolation: No other Quincy; he feels like the last of his kind, leading to loneliness.
+              '''• Isolation: No other Quincy; he feels like the last of his kind, leading to loneliness.
 • Identity Crisis: His Quincy pride clashes with modern norms; he struggles with fitting in.
 • Power Void: Unable to use Seele Schneider or Hirenkyaku; he turns to sewing as a coping mechanism.
-• Social Challenges: His aloof personality and intelligence alienate peers, and he misses the rivalry with Ichigo in battles.',
+• Social Challenges: His aloof personality and intelligence alienate peers, and he misses the rivalry with Ichigo in battles.''',
             ),
             const SizedBox(height: 16),
             const Text(
